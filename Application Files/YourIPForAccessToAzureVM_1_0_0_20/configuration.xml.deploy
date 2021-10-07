@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<YourIPConfig>
+  <yourPreviousIP>109.173.55.184</yourPreviousIP>
+  <yourMainCountryCC>RU</yourMainCountryCC>
+  <intBackgroundCheckingMinute>5</intBackgroundCheckingMinute>
+  <yourAdminAzureVMEmail>alexey.sedoykin@siemens.com</yourAdminAzureVMEmail>
+  <yourAdminAzureVMEmail>pirmagomed.malaliev@siemens.com</yourAdminAzureVMEmail>
+  <yourAdminAzureVMEmail>roman.khohklenkov@siemens.com</yourAdminAzureVMEmail>
+  <yourAdminAzureVMEmail>alexey.scherbakov@siemens.com</yourAdminAzureVMEmail>
+</YourIPConfig>
